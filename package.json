@@ -1,0 +1,16 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "This is a application which can extract data from websites.",
+  "main": "index.js",
+  "dependencies": {
+    "website-scraper": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thilina Dissanayake",
+  "license": "ISC"
+}
